@@ -1,4 +1,4 @@
-# Show_time
+# It's Show_time
 
 A movie booking website written in node and react using mongoDb as database
 
